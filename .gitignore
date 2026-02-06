@@ -1,0 +1,6 @@
+venv/
+internal/
+__pycache__/
+.ipynb_checkpoints/
+Themes.docx
+Info.txt

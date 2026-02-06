@@ -1,0 +1,5 @@
+participant_id,program_name,week_number,question,response,submission_timestamp,reflection_theme,quality_score,actionability_score,confidence_level,needs_human_review
+P001,First-Time Manager Program,1,What leadership challenge did you face this week?,I struggled to delegate tasks because I was worried the work wouldnot meet expectations.,01-09-2025 10:15,Delegation,High,Low,Medium,Yes
+P002,First-Time Manager Program,1,What leadership challenge did you face this week?,Managing conflicting priorities was difficult and I felt unsure about what to focus on first.,01-09-2025 11:02,Prioritization,High,Low,Medium,Yes
+P003,First-Time Manager Program,1,What leadership challenge did you face this week?,I had trouble giving feedback to a team member without sounding too critical.,01-09-2025 11:45,Communication,Medium,Low,Medium,Yes
+P004,First-Time Manager Program,1,What leadership challenge did you face this week?,I was not clear about my role as a manager and kept doing individual contributor work.,01-09-2025 12:10,Role Clarity,High,Low,Medium,Yes
